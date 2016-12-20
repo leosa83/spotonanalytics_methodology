@@ -1,0 +1,26 @@
+Licensing Strategy v 0.0
+
+1.
+==> Inductive Period
+Initial Growth and (Hopefully) Widespread Ideas ==> Permissive License ==> The MIT License
+2.
+==> Deductive Period
+Conclude and Release a best effort alpha version ==> Build Community ==> Let other people be compensated for their contributions ==> 
+==> Weak/Strong CopyLeft License
+argument_0:(http://www.cio.com/article/2382115/open-source-tools/how-to-choose-the-best-license-for-your-open-source-software-project.html)
+'
+Cloud Loophole in Copyleft Licenses
+
+It turns out that there is what could be regarded as a minor loophole in the wording of many copyleft licenses including the GPL when it comes to the availability of source code.
+
+Essentially the issue is this: under the GPL (and other licenses,) source code must be made available for any modified software that you distribute. But if someone modifies your code and then offers the software as a service -- from the cloud, or using a server-based computing model , for example -- then they never actually distribute the new software. That means that they don't have to make the modified source code available for others to benefit from, which goes against the open source ideal.
+
+"To get around this, licenses such as the GNU Affero General Public License (AGPL) have a stipulation that users who access the software over a network are also entitled to receive the source code for the application," says Johnson.
+'
+==> GNU Affero General Public License (AGPL)
+=> Repeat for 'Best Fit' Analogies
+
+Terminology(ies) and Nomenclature(s) used:
+http://www.cio.com/article/2382115/open-source-tools/how-to-choose-the-best-license-for-your-open-source-software-project.html
+ '“Spot on Analytics” Methodology' ==> https://github.com/leosa83/spotonanalytics_methodology/tree/develop
+
